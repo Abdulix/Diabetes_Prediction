@@ -43,7 +43,7 @@ Make sure you have necessary libraries installed on your Jupyter if any error oc
 
 Change the path of your dataset according to your directory and name of file :
 ```bash
-os.chdir(r'D:\5th Semester\AI\AI Lab\Assignment2')
+os.chdir(r' ')
 ```
 
 
